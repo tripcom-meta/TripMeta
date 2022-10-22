@@ -221,7 +221,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.xr.picoxr": {
-      "version": "file:/Users/wangshihao/projects/pico/PICO Unity Integration SDK v211",
+      "version": "file:../PICO Unity Integration SDK v211",
       "depth": 0,
       "source": "local",
       "dependencies": {
