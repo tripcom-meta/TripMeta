@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/TripMeta.unity
+    guid: 030be247e20734876b6e5f2849cd2bc3
+  - enabled: 1
+    path: Assets/TripMeta2.unity
+    guid: a1575b9e4fad94cb4bc62595a3c1321f
   m_configObjects:
     Unity.XR.PXR.Settings: {fileID: 11400000, guid: a7a6d073e764d4e5d885be148abcefdc, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e8061ad7ea1c5475c8ea7b7afa25e09a, type: 2}
